@@ -15,3 +15,7 @@ Sunucuda ki Rozetli Kişilerin Adlarını ve İDlerini Gösterir.
 Emojilerin İDlerini değiştiriniz.
 
 Kısa sürede yaptığım için ufak bir hata olabilir.
+
+Preview & Ön İzleme
+
+https://media.discordapp.net/attachments/929334434199642202/945937588815015956/onizleme.png
